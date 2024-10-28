@@ -6,3 +6,11 @@ pyautogui.moveTo(599,597)
 for i in range(800):
     pyautogui.click()
     #
+
+
+
+#Clicks - 
+#Criar um código que crie uma nova pasta
+
+# import pyautogui
+# pyautogui.middleClick(66,1061)
